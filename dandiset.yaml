@@ -10,18 +10,48 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Higley, Michael (2024) Dual-color mesoscopic imaging of both ACh and calcium
-  across the neocortex of awake mice (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001172/draft
+citation: Moberly, Andrew ; Benisty, Hadas; Landa, Boris; Jing, Miao; Li, Yulong;
+  Higley, Michael; Cardin, Jessica (2024) Dual-color mesoscopic imaging of both ACh
+  and calcium across the neocortex of awake mice (Version draft) [Data set]. DANDI
+  archive. https://dandiarchive.org/dandiset/001172/draft
 contributor:
 - awardNumber: 5 R01 MH 099045-10
   name: National Institutes of Health (NIH)
   roleName:
   - dcite:Funder
   schemaKey: Organization
+- email: andrew.moberly@yale.edu
+  includeInCitation: true
+  name: 'Moberly, Andrew '
+  schemaKey: Person
+- includeInCitation: false
+  name: Lohani, Sweyta
+  schemaKey: Person
+- includeInCitation: true
+  name: Benisty, Hadas
+  schemaKey: Person
+- includeInCitation: true
+  name: Landa, Boris
+  schemaKey: Person
+- includeInCitation: true
+  name: Jing, Miao
+  schemaKey: Person
+- identifier: 0000-0002-9166-9919
+  includeInCitation: true
+  name: Li, Yulong
+  schemaKey: Person
+  url: http://www.yulonglilab.org/
 - email: michael.higley@yale.edu
   identifier: 0000-0001-9047-2420
   includeInCitation: true
   name: Higley, Michael
+  roleName:
+  - dcite:ContactPerson
+  schemaKey: Person
+- email: jess.cardin@yale.edu
+  identifier: 0000-0002-8209-5466
+  includeInCitation: true
+  name: Cardin, Jessica
   schemaKey: Person
 dateCreated: '2024-08-14T12:41:51.861328+00:00'
 description: 'Dual-color mesoscopic imaging of both ACh and calcium across the neocortex
@@ -37,7 +67,10 @@ ethicsApproval: []
 id: DANDI:001172/draft
 identifier: DANDI:001172
 keywords:
-- Dual-color mesoscopic ACh, calcium imaging, visual stimulus, mouse
+- calcium imaging
+- ACh imaging
+- Cholinergic network activity
+- Dual-color mesoscopic imaging
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
