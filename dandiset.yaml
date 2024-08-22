@@ -82,12 +82,12 @@ relatedResource:
 - identifier: https://doi.org/10.1038/s41593-022-01202-6
   name: Dual color mesoscopic imaging reveals spatiotemporally heterogeneous coordination
     of cholinergic and neocortical activity
-  relation: dcite:References
+  relation: dcite:IsDescribedBy
   resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://doi.org/10.1038/s41593-022-01202-6
 - name: MATLAB code for preprocessing dual-color mesoscopic images
-  relation: dcite:Describes
+  relation: dcite:IsCompiledBy
   repository: Lohani_Moberly_et_al_2022
   resourceType: dcite:Software
   schemaKey: Resource
