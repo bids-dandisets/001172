@@ -7,9 +7,14 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:EmbargoedAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard: []
+  measurementTechnique: []
+  numberOfBytes: 921115872
+  numberOfFiles: 3
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Moberly, Andrew ; Benisty, Hadas; Landa, Boris; Jing, Miao; Li, Yulong;
   Higley, Michael; Cardin, Jessica (2024) Dual-color mesoscopic imaging of both ACh
   and calcium across the neocortex of awake mice (Version draft) [Data set]. DANDI
