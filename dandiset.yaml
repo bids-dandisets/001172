@@ -121,6 +121,13 @@ relatedResource:
   resourceType: dcite:Software
   schemaKey: Resource
   url: https://github.com/cardin-higley-lab/Lohani_Moberly_et_al_2022
+- identifier: https://github.com/catalystneuro/higley-lab-to-nwb
+  name: higley-lab-to-nwb
+  relation: dcite:IsCompiledBy
+  repository: GitHub
+  resourceType: dcite:Software
+  schemaKey: Resource
+  url: https://github.com/catalystneuro/higley-lab-to-nwb
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
