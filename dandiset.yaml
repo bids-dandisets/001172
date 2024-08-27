@@ -7,14 +7,38 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:EmbargoedAccess
 assetsSummary:
-  approach: []
-  dataStandard: []
-  measurementTechnique: []
-  numberOfBytes: 1578314892
-  numberOfFiles: 5
+  approach:
+  - name: microscopy approach; cell population imaging
+    schemaKey: ApproachType
+  - name: behavioral approach
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  - name: behavioral technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 38264916113
+  numberOfFiles: 6
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
-  species: []
-  variableMeasured: []
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: Mus musculus - House mouse
+    schemaKey: SpeciesType
+  variableMeasured:
+  - PupilTracking
+  - PlaneSegmentation
+  - OpticalChannel
+  - SpatialSeries
+  - ProcessingModule
+  - ImagingPlane
+  - EyeTracking
 citation: Moberly, Andrew ; Benisty, Hadas; Landa, Boris; Jing, Miao; Li, Yulong;
   Higley, Michael; Cardin, Jessica (2024) Dual-color mesoscopic imaging of both ACh
   and calcium across the neocortex of awake mice (Version draft) [Data set]. DANDI
@@ -25,12 +49,12 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
+- includeInCitation: false
+  name: Lohani, Sweyta
+  schemaKey: Person
 - email: andrew.moberly@yale.edu
   includeInCitation: true
   name: 'Moberly, Andrew '
-  schemaKey: Person
-- includeInCitation: false
-  name: Lohani, Sweyta
   schemaKey: Person
 - includeInCitation: true
   name: Benisty, Hadas
