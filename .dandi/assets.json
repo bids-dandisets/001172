@@ -16,7 +16,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -259,7 +259,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -349,7 +349,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -592,7 +592,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -682,7 +682,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -925,7 +925,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -1015,7 +1015,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -1258,7 +1258,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -1348,7 +1348,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -1591,7 +1591,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -1681,7 +1681,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -1924,7 +1924,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -2014,7 +2014,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -2257,7 +2257,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -2347,7 +2347,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -2590,7 +2590,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -2680,7 +2680,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -2923,7 +2923,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -3013,7 +3013,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -3256,7 +3256,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -3346,7 +3346,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -3589,7 +3589,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -3679,7 +3679,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -3922,7 +3922,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -4012,7 +4012,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -4255,7 +4255,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -4345,7 +4345,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -4588,7 +4588,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -4678,7 +4678,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -4921,7 +4921,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
@@ -5011,7 +5011,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "approach":
@@ -5254,7 +5254,7 @@
 "schemaKey":
 "AccessRequirements",
 "status":
-"dandi:OpenAccess"
+"dandi:EmbargoedAccess"
 }
 ],
 "blobDateModified":
